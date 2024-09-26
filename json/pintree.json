@@ -1,7 +1,4 @@
 [
-  {
-    "type": "folder",
-    "children": [
       {
         "type": "folder",
         "addDate": 1727352275231,
@@ -1910,48 +1907,6 @@
             "title": "Open LLM",
             "icon": "https://logo.clearbit.com/chat.lmsys.org",
             "url": "https://chat.lmsys.org/"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1727349687607,
-        "title": "最常用",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1727323404132,
-            "title": "Pintree",
-            "icon": "https://logo.clearbit.com/wanmaxmax.github.io",
-            "url": "https://wanmaxmax.github.io/pintree/"
-          },
-          {
-            "type": "link",
-            "addDate": 1694578076653,
-            "title": "EdgeStore",
-            "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
-            "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions"
-          },
-          {
-            "type": "link",
-            "addDate": 1694577950877,
-            "title": "语雀",
-            "icon": "https://logo.clearbit.com/www.yuque.com",
-            "url": "https://www.yuque.com/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1702192348710,
-            "title": "Clouddrive2",
-            "icon": "https://logo.clearbit.com/localhost",
-            "url": "http://localhost:19798/"
-          },
-          {
-            "type": "link",
-            "addDate": 1724239379219,
-            "title": "OpenWrt",
-            "icon": "https://logo.clearbit.com/192.168.6.1",
-            "url": "http://192.168.6.1/cgi-bin/luci/"
           }
         ]
       },
@@ -48505,6 +48460,4 @@
           }
         ]
       }
-    ]
-  }
 ]
